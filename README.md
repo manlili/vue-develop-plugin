@@ -1,4 +1,4 @@
-# vue-plugin-research
+﻿# vue-plugin-research
 
 > research vue plugin develop methods
 
