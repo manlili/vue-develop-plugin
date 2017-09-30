@@ -1,6 +1,10 @@
+<!--使用方法1创建alert插件-->
+<template>
+
+</template>
 
 <!--使用方法4创建doubleNumber 插件-->
-<template>
+<!--<template>
 	<div id="app">
 		<div>
 			{{num}}
@@ -21,7 +25,7 @@
 			}
 		}
 	}
-</script>
+</script>-->
 
 <!--使用方法5创建loading 插件-->
 <!--<template>
