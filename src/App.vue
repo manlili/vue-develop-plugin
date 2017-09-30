@@ -1,6 +1,13 @@
 <!--使用方法1创建alert插件-->
-<template>
+<!--<template>
 
+</template>-->
+
+<!--使用方法3创建ubt插件-->
+<template>
+	<div id="app">
+		<button @click="sendUbt">点击我发送ubt,注意观察console</button>
+	</div>
 </template>
 
 <!--使用方法4创建doubleNumber 插件-->
