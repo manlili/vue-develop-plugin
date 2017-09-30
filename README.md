@@ -1,6 +1,6 @@
 ﻿# vue-plugin-research
 
-> research vue plugin develop methods
+> research vue plugin develop methods 
 
 ## Build Setup
 
