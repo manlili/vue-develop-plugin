@@ -7,5 +7,9 @@ const doubleNumber = {
 				return Number(val) * 2
 			}
 		}
+		
+		Vue.prototype.num = 3
 	}
 }
+
+export default doubleNumber

@@ -1,8 +1,13 @@
 import Vue from 'vue'
 import App from './App.vue'
-import Loading from './components/loading'
 
-Vue.use(Loading)
+//使用方法4创建doubleNumber 插件
+import doubleNumber from './components/doubleNumber'
+Vue.use(doubleNumber)
+
+//使用方法5创建loading 插件
+//import Loading from './components/loading'
+//Vue.use(Loading)
 
 new Vue({
   el: '#app',
