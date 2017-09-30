@@ -6,14 +6,19 @@
         </div>
     </div>
 </template>
-<script></script>
 
 <script>
+//	控制2秒后消失
+	setTimeout(function () {
+		document.querySelector('.loading-cont').setAttribute('style', 'display: none')
+	}, 2000)
 </script>
 
 <style>
 	.loading-cont {
-		width: 50%;
+		width: 100px;
+		height: 100px;
+		line-height: 100px;
 		background-color: rgba(0, 0, 0, .5);
 		border-radius: 5px;
 		padding: 5px;
